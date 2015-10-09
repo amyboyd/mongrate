@@ -9,7 +9,6 @@ use Mongrate\Exception\MigrationDoesntExist;
 use Mongrate\Model\Direction;
 use Mongrate\Model\Name;
 use Mongrate\Model\Migration;
-use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
 class MigrationService
